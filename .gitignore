@@ -2,3 +2,5 @@
 index_directory
 __pycache__
 .vscode
+build
+*.egg-info
