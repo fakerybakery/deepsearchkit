@@ -7,7 +7,7 @@ A small, fast, and easy package that allows easy semantic searching using artifi
 You can install the latest stable version from the registry:
 
 ```
-pip3 install dsk
+pip3 install deepsearchkit
 ```
 
 You can install the very latest version directly from the Git repository, however certain features may not work:
