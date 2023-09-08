@@ -4,3 +4,5 @@ __pycache__
 .vscode
 build
 *.egg-info
+dist
+nogit_*

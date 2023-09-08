@@ -1,2 +1,11 @@
 example_dir
 index
+ui.py
+templates
+data.json
+data.txt
+llama2
+nogit_
+index_my_*
+search_my_*
+index_*
