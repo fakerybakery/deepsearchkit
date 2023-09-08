@@ -13,7 +13,7 @@ pip3 install deepsearchkit
 You can install the very latest version directly from the Git repository, however certain features may not work:
 
 ```
-pip3 install git+https://github.com/fakerybakery/DeepSearchKit
+pip3 install git+https://github.com/fakerybakery/deepsearchkit
 ```
 
 ## Features
