@@ -15,7 +15,7 @@ class DSKIndexer:
         if progress:
             self._embeddings.index(tqdm(self._data, total=datalen))
         else:
-            self._embeddings.index()
+            self._embeddings.index(self._data)
         self._hasIndexed = True
     def save(self, directory: str):
         if self._hasIndexed == False:
