@@ -1,6 +1,6 @@
-## Disclaimer
+## Agreement
 
-**By using or contributing to this software, you agree to this disclaimer.** This disclaimer is not a license.
+**By using or contributing to this software, you agree to this agreement.** This disclaimer is not a license.
 
 This software is provided "as-is," with no included warranty, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or contributors be liable for any claim, damages, or other liability, whether in an action of contract, tort or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
 
