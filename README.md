@@ -33,7 +33,7 @@ Documentation is available [here](DOCUMENTATION.md).
 - [ ] Add document search demo
   - [ ] Add document chat demo
 - [ ] Add upsert feature ([txtai#251](https://github.com/neuml/txtai/issues/251))
-- [ ] Add more data support, e.g. parquet
+- [ ] Add more data support, e.g. parquet, MySQL/hosted DBs
 - [ ] Custom prompt/data format for multiple columns in JSON
 - [ ] Custom progress callback for indexing
 - [ ] Make some example projects
