@@ -1,4 +1,4 @@
-# DeepSearchKit
+# :brain: DeepSearchKit
 
 A small, fast, and easy package that allows easy semantic searching using artificial intelligence. It is based on and similar to the closed-source DeepSearch system.
 
