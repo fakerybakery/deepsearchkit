@@ -1,8 +1,8 @@
-# :brain: DeepSearchKit
+# :mag: DeepSearchKit
 
 A small, fast, and easy package that allows easy semantic searching using artificial intelligence. It is based on and similar to the closed-source DeepSearch system.
 
-## Installation
+## :computer: Installation
 
 You can install the latest stable version from the registry:
 
@@ -16,16 +16,16 @@ You can install the very latest version directly from the Git repository, howeve
 pip3 install git+https://github.com/fakerybakery/deepsearchkit
 ```
 
-## Features
+## :white_check_mark: Features
 
  * CPU, CUDA, and MPS support (enhanced GPU acceleration)!
  * Simple usage
 
-## Usage
+## :newspaper: Usage
 
 Documentation is available [here](DOCUMENTATION.md).
 
-## Todo
+## :thought_balloon: Todo
 
 - [ ] Integrate DeepSearch into DeepSearchKit
   - [ ] Open-source DeepSearch
@@ -42,14 +42,14 @@ Documentation is available [here](DOCUMENTATION.md).
 - [ ] Allow easy publishing with a `.dskpkg` file - compressed DeepSearchKit package that includes the index, the data, and some attributes (name, author, license, etc)
   - [ ] Maybe in the future: "DSK Hub" - hub for DSK packages
 
-## Credits
+## :memo: Credits
 
 We would like to thank the authors of the following open source projects:
 
  * [sentence-transformers](https://github.com/UKPLab/sentence-transformers)
  * [txtai](https://github.com/neuml/txtai)
 
-## Disclaimer/Agreement (Read BEFORE you contribute!)
+## :briefcase: Disclaimer/Agreement (Read BEFORE you contribute!)
 
 In every new issue/PR, make sure to include "I agree to the disclaimer!"
 
