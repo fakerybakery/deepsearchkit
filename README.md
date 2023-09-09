@@ -1,3 +1,5 @@
+Note: This project is still a work-in-progress. It works, but it doesn't have many features yet. Please suggest features, report problems (bugs should go in Issues), or just say hi in Discussions!
+
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/deepsearchkit)
 
 # :mag: DeepSearchKit
