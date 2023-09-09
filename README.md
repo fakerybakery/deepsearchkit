@@ -49,6 +49,6 @@ We would like to thank the authors of the following open source projects:
  * [sentence-transformers](https://github.com/UKPLab/sentence-transformers)
  * [txtai](https://github.com/neuml/txtai)
 
-## Disclaimer
+## Disclaimer/Agreement
 
-By using/contributing to this software, you agree to the [disclaimer](DISCLAIMER.md).
+By using/contributing to this software, you agree to the [agreement](DISCLAIMER.md).
