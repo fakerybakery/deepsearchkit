@@ -1,5 +1,5 @@
 from deepsearchkit import DSK
-dsk = DSK(path="sentence-transformers/all-MiniLM-L6-v2")
+dsk = DSK()
 dsk.loadJSON(filename="demo_data.json", column_names=["title", "content"])
 dsk.loadIndex(directory="index_directory")
 while True:
