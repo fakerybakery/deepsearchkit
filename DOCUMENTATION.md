@@ -158,3 +158,7 @@ print("Search Results:")
 for i, result in enumerate(results, start=1):
     print(f"{i}. {result[1]}:\n{result[2]}\n")
 ```
+
+
+
+Documentation Copyright 2023. All rights reserved.
