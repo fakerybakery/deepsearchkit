@@ -3,7 +3,7 @@ from txtai.embeddings import Embeddings
 from tqdm import tqdm
 from .error_handler import *
 class DSKIndexer:
-    """Low(er)-level indexer from DSK"""
+    """Lower-level indexer from DSK"""
     _embeddings = None
     _hasIndexed = False
     def __init__(self, path: str = "sentence-transformers/all-MiniLM-L6-v2"):
