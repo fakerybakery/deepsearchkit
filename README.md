@@ -45,6 +45,7 @@ Documentation is available [here](DOCUMENTATION.md).
   - [ ] Search an entire directory
 - [ ] Allow easy publishing with a `.dskpkg` file - compressed DeepSearchKit package that includes the index, the data, and some attributes (name, author, license, etc)
   - [ ] Maybe in the future: "DSK Hub" - hub for DSK packages
+- [ ] Add spaCy version
 
 ## :memo: Credits
 
