@@ -47,6 +47,8 @@ Documentation is available [here](DOCUMENTATION.md).
   - [ ] Maybe in the future: "DSK Hub" - hub for DSK packages
 - [ ] Add spaCy version
 
+* Can you help out? Please make a Pull Request!
+
 ## :memo: Credits
 
 We would like to thank the authors of the following open source projects:
